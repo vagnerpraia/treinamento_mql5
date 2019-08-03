@@ -1,2 +1,2 @@
 # treinamento_mql5
-Treinamento de MQL 5
+Repositório com arquivos de treinamento de MQL 5
